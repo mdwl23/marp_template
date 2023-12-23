@@ -1,0 +1,89 @@
+/* 
+@theme test
+@auto-scaling true
+ */
+
+@import 'default';
+
+/* section {
+    font-family: "Arial", "Hiragino Maru Gothic ProN";
+    font-size: 32px;
+    padding: 40px;
+} */
+
+section.title h1 {
+    color: #303030;
+    font-family: "游ゴシック", "Arial", "Hiragino Kaku Gothic ProN";
+    font-size: 60px;
+    /* text-align: left; */
+}
+
+section.title {
+    color:#303030;
+    font-family: "游ゴシック", "Arial", "Hiragino Maru Gothic ProN";
+    font-size: 24px;
+    /* text-align: left; */
+    /* padding: 80px; */
+    /* background-color: black; */
+}
+
+section.slides h1 {
+    color: #303030;
+    font-family: "游ゴシック", "Arial", "Hiragino Kaku Gothic ProN";
+    font-size: 50px;
+    /* position: absolute;
+    left: 40px; top: 40px; */
+}
+
+/* section.slides h1 {
+    background: linear-gradient( to left,  rgba(69,179,224,1) 25%, rgb(97, 109, 218) 75% );
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family: "游ゴシック", "Arial", "Hiragino Kaku Gothic ProN";
+    font-size: 42px;
+    position: absolute;
+    left: 50px; top: 50px;
+} */
+
+section.slides h2 {
+    font-family: "游ゴシック", "Arial", "Hiragino Kaku Gothic ProN";
+    font-size: 32px;
+    color: #303030;
+    /* position: absolute;
+    left: 40px; top: 80px; */
+}
+
+section.slides {
+    font-family: "游ゴシック", "Arial", "Hiragino Kaku Gothic ProN";
+    font-size: 20px;
+    color: #303030;
+}
+
+section.small {
+    font-size: 1.4rem;
+}
+
+section.small h1 {
+    font-family: "游ゴシック", "Arial", "Hiragino Kaku Gothic ProN";
+    font-size: 50px;
+    position: relative;
+}
+
+
+header {
+    /* background-color: green; */
+    color: #333;
+    font-size: 12px;
+    /* font-weight: 700; */
+    /* padding: 1rem; */
+    /* height: auto; */
+}
+
+footer {
+    /* background-color: green; */
+    color: #333;
+    font-size: 12px;
+    /* font-weight: 700; */
+    /* padding: 1rem; */
+    /* height: auto; */
+}
